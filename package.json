@@ -1,0 +1,17 @@
+{
+  "name": "sortarraythengroup",
+  "version": "1.0.0",
+  "description": "sort an array grouping any common items found in the array",
+  "main": "sortArrayThenGroup.js",
+  "scripts": {
+    "test": "jest",
+    "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json"
+  },
+  "author": "Paul C",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jsdocs": "^1.0.0"
+  },
+  "dependencies": {}
+}
