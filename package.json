@@ -4,8 +4,7 @@
   "description": "sort an array grouping any common items found in the array",
   "main": "sortArrayThenGroup.js",
   "scripts": {
-    "test": "jest",
-    "generate-docs": "node_modules/.bin/jsdoc -c jsdoc.json"
+    "test": "jest"
   },
   "author": "Paul C",
   "license": "MIT",

@@ -7,4 +7,5 @@
  * Bonus: Make it so it organizes strings differently from number types 
  * i.e: [[1,1,1],2,3,['a','b','c']] 
  * 
+ * Testing (Jest) has been implemented to test function.
  */
