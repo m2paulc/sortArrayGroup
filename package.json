@@ -4,13 +4,18 @@
   "description": "sort an array grouping any common items found in the array",
   "main": "sortArrayThenGroup.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "preinstall": "npx npm-force-resolutions"
   },
   "author": "Paul C",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^24.8.0",
+    "jest": "^24.9.0",
     "jsdocs": "^1.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "resolutions": {
+    "minimist": "1.2.5",
+    "mkdir": "0.5.5"
+  }
 }
