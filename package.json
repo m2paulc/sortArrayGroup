@@ -16,6 +16,7 @@
   "dependencies": {},
   "resolutions": {
     "minimist": "1.2.5",
-    "mkdir": "0.5.5"
+    "mkdir": "0.5.5",
+    "kind-of": "6.0.3"
   }
 }
