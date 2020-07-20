@@ -11,7 +11,8 @@
   "license": "MIT",
   "devDependencies": {
     "jest": "^24.9.0",
-    "jsdocs": "^1.0.0"
+    "jsdocs": "^1.0.0",
+    "minimist": "^1.2.5"
   },
   "dependencies": {},
   "resolutions": {
