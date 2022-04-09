@@ -12,11 +12,11 @@
   "devDependencies": {
     "jest": "^24.9.0",
     "jsdocs": "^1.0.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "dependencies": {},
   "resolutions": {
-    "minimist": "1.2.5",
+    "minimist": "1.2.6",
     "mkdir": "0.5.5",
     "kind-of": "6.0.3"
   }
